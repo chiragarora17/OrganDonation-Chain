@@ -1,9 +1,5 @@
 # ORGANCHAIN
 
-![Alt text](/artifacts/SVICFINALIST.jpeg?raw=true "OrganChain at SVIC Finals")
-
-OrganChain at SCIV
-
 ### Organ Waitlist ledger on a blockchain.
 
 ### Organ waitlist uses two servers :
